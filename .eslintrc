@@ -14,7 +14,8 @@
     "space-before-blocks": "off",
     "arrow-parens": "off",
     "eol-last": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "operator-linebreak": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
